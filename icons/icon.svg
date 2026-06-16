@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="选你妹图标">
+  <rect width="512" height="512" rx="72" fill="#df111f"/>
+  <path d="M118 76h276v356H118z" fill="#fff8e9"/>
+  <path d="M118 76h276v356H118z" fill="none" stroke="#11100e" stroke-width="16"/>
+  <path d="M136 76c0 16 24 16 24 0m18 0c0 16 24 16 24 0m18 0c0 16 24 16 24 0m18 0c0 16 24 16 24 0m18 0c0 16 24 16 24 0m18 0c0 16 24 16 24 0" fill="none" stroke="#df111f" stroke-width="12"/>
+  <path d="M154 142h72M286 142h58" stroke="#df111f" stroke-linecap="round" stroke-width="16"/>
+  <path d="M154 188h190M154 224h190M154 260h190" stroke="#11100e" stroke-linecap="round" stroke-width="12" stroke-dasharray="2 22"/>
+  <path d="M176 324h176" stroke="#11100e" stroke-width="14"/>
+  <path d="M182 358h12m18 0h8m18 0h20m18 0h8m18 0h14m18 0h24" stroke="#11100e" stroke-linecap="square" stroke-width="22"/>
+  <path d="M196 406h120" stroke="#df111f" stroke-linecap="round" stroke-width="22"/>
+</svg>
