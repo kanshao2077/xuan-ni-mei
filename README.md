@@ -4,6 +4,9 @@
 
 把几个选项写进去，点一下按钮，它就随机替你选一个。界面做成了复古小票风格，像把纠结打印成一张收据。
 
+<img width="2240" height="1651" alt="CleanShot 2026-06-24 at 16 23 07@2x" src="https://github.com/user-attachments/assets/c0a220b3-6524-4ed2-9288-0f4645f2e2a2" />
+
+
 体验网址：https://kanshao2077.github.io/xuan-ni-mei/
 
 ## 能干什么
